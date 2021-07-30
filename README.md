@@ -4,7 +4,7 @@
 <img src="images/logo%20new.png" width="300">
 </p>
 
-# Techware - Android Studio
+# Techware Mobile App - Android Studio
 
 
 
