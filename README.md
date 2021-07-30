@@ -23,7 +23,10 @@
 - Payment
 
 
+## Logo
+bryceganotice.22@gmail.com
 
 ## Contact
 vincedaniel20@gmail.com
+
 
